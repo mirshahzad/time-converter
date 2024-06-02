@@ -38,7 +38,7 @@ def convert_time(input_time, input_tz, target_tz):
     # Return the formatted input date and converted time
     return formatted_date, formatted_time
 
-# Example usage
+#Example usage
 if __name__ == "__main__":
     # Define input time, input timezone, and target timezone
     input_time = '08:00 PM'
